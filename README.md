@@ -1,21 +1,167 @@
-# 💫 About Me:
-# Hi, I'm Jyotishman 👋<br><br>I'm a backend-focused software engineer from India who enjoys building scalable systems that solve real engineering problems.<br><br>My primary stack is **TypeScript, Node.js, PostgreSQL, and Redis**, and I love designing distributed systems, real-time applications, and production-ready backend architectures. I also build React/Next.js frontends whenever a project needs a complete end-to-end solution.<br><br>Recently I've been working on projects involving:<br><br>*  Real-time order matching engines<br>*  OAuth 2.0 & API platforms<br>*  Multi-tenant SaaS architectures<br>*  WebSockets & event-driven systems<br>*  Redis-powered infrastructure and performance optimization<br><br>I enjoy thinking about architecture as much as writing code—clean architecture, distributed caching, concurrency, database design, and building software that's easy to extend.<br><br>Currently I'm looking for opportunities in:<br><br>* Backend Engineering<br>* Platform Engineering<br>* Full-Stack Engineering (Backend-heavy)<br><br>Outside of coding, I spend time solving algorithmic problems, writing about backend engineering, and exploring distributed systems.<br><br>> *Build software that stays simple—even when the problems aren't.*<br>
+<div align="center">
 
+# Hi there, I'm Jyotishman 👋
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jyotishman-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=jyotishman-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jyotishman-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Backend Engineer • Distributed Systems • TypeScript • Node.js
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jyotishman-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;Distributed+Systems+Enthusiast;Building+Production+Grade+Software;Node.js+%7C+TypeScript+%7C+PostgreSQL+%7C+Redis;Scalable+Systems+%7C+Real-time+Infrastructure" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jyotishmanpathak.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jyotishmanpathak/)
+[![Resume](https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://jyotishmanpathak.vercel.app/resume)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotishmanpathak.work@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=jyotishman-dev&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+```yaml
+Name: Jyotishman Pathak
+
+Role:
+  - Backend Engineer
+  - Platform Engineer
+  - Full Stack Engineer (Backend-heavy)
+
+Languages:
+  - TypeScript
+  - JavaScript
+  - Python
+
+Currently Building:
+  - Real-time Matching Engines
+  - OAuth Platforms
+  - API Infrastructure
+  - Multi-Tenant SaaS
+
+Interested In:
+  - Distributed Systems
+  - System Design
+  - Event-Driven Architecture
+  - Backend Performance
+  - Database Design
+
+Open To:
+  - Backend Engineering
+  - Platform Engineering
+  - Full Stack Engineering
+  - Remote Opportunities
+```
+
+---
+
+# 🏗 Engineering Philosophy
+
+> **Build software that stays simple—even when the problems aren't.**
+
+- Clean Architecture
+- SOLID Principles
+- Scalability First
+- Performance Focused
+- Event-Driven Systems
+- Production Ready APIs
+- Developer Experience
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,postgres,mysql,redis,prisma,docker,aws,gcp,kafka,git,github,linux,python&perline=8" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Stack |
+|----------|-------------|-------|
+| ⚡ Exchange Engine | Real-time order matching engine capable of handling thousands of concurrent orders | Node.js • Redis • PostgreSQL |
+| 🔐 OAuth Platform | OAuth 2.0 Authorization Server with JWT & Refresh Tokens | Express • PostgreSQL |
+| ☁ Multi-Tenant SaaS | Complete backend architecture with RBAC & tenant isolation | Prisma • PostgreSQL |
+| 📡 Real-Time Infrastructure | Event-driven backend powered by Redis Pub/Sub & WebSockets | Redis • Socket.IO |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jyotishman-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotishman-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=jyotishman-dev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotishman-dev&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jyotishman-dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```text
+Building scalable backend systems
+
+Learning Kubernetes & Go
+
+Exploring Distributed Systems
+
+Writing about Backend Engineering
+
+Preparing for Backend & Platform roles
+```
+
+---
+
+# 📫 Connect With Me
+
+- 🌐 Portfolio → https://jyotishmanpathak.vercel.app/
+- 💼 LinkedIn → https://www.linkedin.com/in/jyotishmanpathak/
+- 📄 Resume → https://jyotishmanpathak.vercel.app/resume
+- 📧 Email → jyotishmanpathak.work@gmail.com
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+*"Build software that stays simple—even when the problems aren't."*
+
+<img src="https://komarev.com/ghpvc/?username=jyotishman-dev&style=for-the-badge&color=blue"/>
+
+</div>
